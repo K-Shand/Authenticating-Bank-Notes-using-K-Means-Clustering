@@ -1,4 +1,4 @@
-# Authenticating-Bank-Notes-using-Machine-Learning
+# Using-Machine-Learning to Authenticate Bank Notes
 A short Jupyter Notebook showing how K-Means Clustering can be used to identify genuine and counterfeit bank notes. 
 
 In order to complete this analysis, I have used Python to build a K-Means clustering model that is trained on an open-source dataset from OpenML. 
